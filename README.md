@@ -16,10 +16,11 @@ Give this command “open -a Xcode Podfile”
 
 [this will open the podfile in xcode now we have to edit that file]
 Delete all comment as we don’t need them and liist your pods in the pod file
-Then save 
+Then save and
 
 Go back to the terminal write “pod install”
 Now go to your project directory , and you will ses a blue logo, and one white logo, white one is mixed with the pods… use
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 
